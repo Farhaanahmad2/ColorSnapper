@@ -26,6 +26,11 @@ Copy and Export: Copy color codes directly or export entire palettes.
 
 
 
+
+
+
+
+
 ![Color1](https://github.com/user-attachments/assets/a48f42cb-555a-4a6e-ae30-bf8fed733ff8)
 
 ![color111](https://github.com/user-attachments/assets/71859693-93d1-451e-b061-9aa9611a7d8e)
