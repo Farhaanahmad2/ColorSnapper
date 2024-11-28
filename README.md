@@ -13,7 +13,7 @@ Lightweight: Minimal impact on browser performance.
 
 🛠 Tech Stack!
 
-Frontend-Styling: HTML, Tailwind CSS for a modern and responsive design.
+Frontend-Styling: HTML, CSS for a modern and responsive design.
 Chrome APIs: Leveraging the Chrome Extensions API for seamless integration.
 
 
