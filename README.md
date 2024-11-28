@@ -13,8 +13,7 @@ Lightweight: Minimal impact on browser performance.
 
 🛠 Tech Stack!
 
-Frontend: React with Vite for fast and smooth UI.
-Styling: Tailwind CSS for a modern and responsive design.
+Frontend-Styling: HTML, Tailwind CSS for a modern and responsive design.
 Chrome APIs: Leveraging the Chrome Extensions API for seamless integration.
 
 
