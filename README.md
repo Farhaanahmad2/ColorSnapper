@@ -24,18 +24,11 @@ Save to Palette: Add the selected color to your palette for future reference.
 Copy and Export: Copy color codes directly or export entire palettes.
 
 
+![co1](https://github.com/user-attachments/assets/4c277c14-2f0e-4a71-a8c1-68b868be882e)
 
+![co2](https://github.com/user-attachments/assets/0aac4d0b-a179-4f50-a68f-5e6957f24d23)
 
-
-
-
-
-![Color1](https://github.com/user-attachments/assets/a48f42cb-555a-4a6e-ae30-bf8fed733ff8)
-
-![color111](https://github.com/user-attachments/assets/71859693-93d1-451e-b061-9aa9611a7d8e)
-
-![color11](https://github.com/user-attachments/assets/8fe108e4-7ce3-4732-98dc-156802591d52)
-
+![co3](https://github.com/user-attachments/assets/0eb6c8c7-e6a2-4fb0-a05b-de36c14fcf9c)
 
 
 
